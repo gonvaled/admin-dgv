@@ -1,8 +1,8 @@
-/* line 3, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 3, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider {
   position: relative;
   text-align: left; }
-  /* line 6, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 6, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider .ui-slider-handle {
     position: absolute;
     z-index: 2;
@@ -11,7 +11,7 @@
     cursor: default;
     border: none;
     cursor: pointer; }
-  /* line 15, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 15, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider .ui-slider-range {
     position: absolute;
     z-index: 1;
@@ -36,7 +36,7 @@
     -moz-box-sizing: content-box;
     box-sizing: content-box; }
 
-/* line 32, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 32, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-horizontal {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
@@ -52,27 +52,27 @@
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
   border-radius: 6px; }
-  /* line 42, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 42, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider-horizontal .ui-slider-handle {
     top: -6px;
     margin-left: -0.6em; }
-  /* line 46, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 46, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider-horizontal .ui-slider-range {
     top: -1px;
     height: 100%; }
-  /* line 50, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 50, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider-horizontal .ui-slider-range-min {
     left: 0; }
-  /* line 53, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 53, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider-horizontal .ui-slider-range-max {
     right: 0; }
 
-/* line 59, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 59, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-vertical .ui-slider-handle {
   left: -6px;
   margin-left: 0;
   margin-bottom: -0.6em; }
-/* line 64, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 64, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-vertical .ui-slider-range {
   left: 0;
   width: 4px;
@@ -84,14 +84,14 @@
   background-image: -moz-linear-gradient(top, #a0d4f5, #81b8f3);
   background-image: -o-linear-gradient(top, #a0d4f5, #81b8f3);
   background-image: linear-gradient(top, #a0d4f5, #81b8f3); }
-/* line 70, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 70, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-vertical .ui-slider-range-min {
   bottom: 0; }
-/* line 74, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 74, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-vertical .ui-slider-range-max {
   top: 0; }
 
-/* line 80, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 80, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-vertical {
   height: 100px;
   width: 6px;
@@ -103,7 +103,7 @@
   -o-border-radius: 6px;
   border-radius: 6px; }
 
-/* line 87, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 87, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider .ui-slider-handle {
   border-radius: 50%;
   background: #f9fbfa;
@@ -123,12 +123,12 @@
   -moz-transition: box-shadow 0.3s;
   -o-transition: box-shadow 0.3s;
   transition: box-shadow 0.3s; }
-  /* line 96, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 96, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider .ui-slider-handle:active {
     -webkit-box-shadow: 0 1px 2px -1px rgba(0, 0, 0, 0.6), 0 -1px 0px 1px rgba(0, 0, 0, 0.15) inset, 0 1px 0px 1px rgba(255, 255, 255, 0.9) inset;
     -moz-box-shadow: 0 1px 2px -1px rgba(0, 0, 0, 0.6), 0 -1px 0px 1px rgba(0, 0, 0, 0.15) inset, 0 1px 0px 1px rgba(255, 255, 255, 0.9) inset;
     box-shadow: 0 1px 2px -1px rgba(0, 0, 0, 0.6), 0 -1px 0px 1px rgba(0, 0, 0, 0.15) inset, 0 1px 0px 1px rgba(255, 255, 255, 0.9) inset; }
-  /* line 100, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 100, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ui-slider .ui-slider-handle:after {
     content: "";
     position: absolute;
@@ -144,18 +144,18 @@
     -moz-box-shadow: 0 1px 1px 1px rgba(22, 73, 163, 0.7) inset, 0 1px 0px 0px white;
     box-shadow: 0 1px 1px 1px rgba(22, 73, 163, 0.7) inset, 0 1px 0px 0px white; }
 
-/* line 115, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 115, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-horizontal .ui-slider-handle {
   top: -10px; }
 
-/* line 119, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 119, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ui-slider-vertical .ui-slider-handle {
   left: -8px; }
 
-/* line 124, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 124, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ranged-slider-ui label {
   color: #858585; }
-/* line 128, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 128, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ranged-slider-ui input {
   background: none;
   border: none;
@@ -163,14 +163,14 @@
   -moz-box-shadow: none;
   box-shadow: none;
   margin: 0; }
-  /* line 134, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+  /* line 134, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
   .ranged-slider-ui input:focus {
     background: none;
     border: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none; }
-/* line 142, /home/andrei/core-admin-release/core-admin/source/stylesheets/ui_custom.scss */
+/* line 142, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/ui_custom.scss */
 .ranged-slider-ui.vertical-bars span {
   height: 120px;
   float: left;

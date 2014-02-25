@@ -1,4 +1,4 @@
-/* line 11, /home/andrei/core-admin-release/core-admin/source/stylesheets/bootstrap_alerts.scss */
+/* line 11, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/bootstrap_alerts.scss */
 .alert {
   border: 1px solid #f1d276;
   color: #a37f11;
@@ -14,7 +14,7 @@
   -moz-box-shadow: 0 1px 2px #f9edc9 inset, 0 1px 1px #dfdfdf;
   box-shadow: 0 1px 2px #f9edc9 inset, 0 1px 1px #dfdfdf; }
 
-/* line 15, /home/andrei/core-admin-release/core-admin/source/stylesheets/bootstrap_alerts.scss */
+/* line 15, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/bootstrap_alerts.scss */
 .alert-info {
   border: 1px solid #a8c3dc;
   color: #3c6a95;
@@ -30,7 +30,7 @@
   -moz-box-shadow: 0 1px 2px #e9f0f6 inset, 0 1px 1px #dfdfdf;
   box-shadow: 0 1px 2px #e9f0f6 inset, 0 1px 1px #dfdfdf; }
 
-/* line 19, /home/andrei/core-admin-release/core-admin/source/stylesheets/bootstrap_alerts.scss */
+/* line 19, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/bootstrap_alerts.scss */
 .alert-danger, .alert-error {
   border: 1px solid #de7e6d;
   color: #7d2a1c;
@@ -46,7 +46,7 @@
   -moz-box-shadow: 0 1px 2px #efc0b8 inset, 0 1px 1px #dfdfdf;
   box-shadow: 0 1px 2px #efc0b8 inset, 0 1px 1px #dfdfdf; }
 
-/* line 23, /home/andrei/core-admin-release/core-admin/source/stylesheets/bootstrap_alerts.scss */
+/* line 23, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/bootstrap_alerts.scss */
 .alert-success {
   border: 1px solid #97cc2e;
   color: #2b3a0d;

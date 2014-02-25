@@ -1,6 +1,6 @@
 /* iCheck.js Flat skin, aero
 ----------------------------------- */
-/* line 5, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 5, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .icheckbox_flat-aero,
 .iradio_flat-aero {
   display: inline-block;
@@ -11,7 +11,7 @@
   background: url("../images/blue.png") no-repeat;
   border: none;
   cursor: pointer; }
-  /* line 15, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+  /* line 15, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
   .icheckbox_flat-aero + label,
   .iradio_flat-aero + label {
     display: inline-block;
@@ -19,43 +19,43 @@
     top: -5px;
     left: 5px; }
 
-/* line 23, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 23, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .icheckbox_flat-aero {
   background-position: 0 0; }
 
-/* line 26, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 26, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .icheckbox_flat-aero.checked {
   background-position: -22px 0; }
 
-/* line 29, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 29, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .icheckbox_flat-aero.disabled {
   background-position: -44px 0;
   cursor: default; }
 
-/* line 33, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 33, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .icheckbox_flat-aero.checked.disabled {
   background-position: -66px 0; }
 
-/* line 37, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 37, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .iradio_flat-aero {
   background-position: -88px 0; }
 
-/* line 40, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 40, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .iradio_flat-aero.checked {
   background-position: -110px 0; }
 
-/* line 43, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 43, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .iradio_flat-aero.disabled {
   background-position: -132px 0;
   cursor: default; }
 
-/* line 47, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+/* line 47, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
 .iradio_flat-aero.checked.disabled {
   background-position: -154px 0; }
 
 /* Retina support */
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-device-pixel-ratio: 1.5) {
-  /* line 57, /home/andrei/core-admin-release/core-admin/source/stylesheets/icheck_blue.scss */
+  /* line 57, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/icheck_blue.scss */
   .icheckbox_flat-aero,
   .iradio_flat-aero {
     background-image: url("../images/blue@2x.png");

@@ -1,7 +1,7 @@
 /*
 Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
 */
-/* line 7, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 7, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container {
   margin: 0;
   position: relative;
@@ -27,7 +27,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   box-sizing: border-box;
   /* css3 */ }
 
-/* line 33, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 33, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-drop {
   /*
     Force border-box so that % widths fit the parent
@@ -46,7 +46,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   box-sizing: border-box;
   /* css3 */ }
 
-/* line 52, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 52, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-search {
   /*
     Force border-box so that % widths fit the parent
@@ -64,7 +64,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   /* ie */
   box-sizing: border-box;
   /* css3 */ }
-  /* line 69, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 69, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-search input {
     /*
       Force border-box so that % widths fit the parent
@@ -83,7 +83,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
     box-sizing: border-box;
     /* css3 */ }
 
-/* line 90, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 90, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container .select2-choice {
   display: block;
   height: 26px;
@@ -115,7 +115,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   background-image: -ms-linear-gradient(top, white 0%, #eeeeee 50%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#eeeeee', GradientType = 0);
   background-image: linear-gradient(top, #ffffff 0%, #eeeeee 50%); }
-/* line 122, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 122, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container.select2-drop-above .select2-choice {
   border-bottom-color: #aaa;
   -webkit-border-radius: 0 0 4px 4px;
@@ -128,10 +128,10 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   background-image: -ms-linear-gradient(top, #eeeeee 0%, white 90%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee',GradientType=0 );
   background-image: linear-gradient(top, #eeeeee 0%, #ffffff 90%); }
-/* line 135, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 135, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container.select2-allowclear .select2-choice span {
   margin-right: 42px; }
-/* line 139, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 139, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container .select2-choice span {
   margin-right: 26px;
   display: block;
@@ -140,7 +140,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   -ms-text-overflow: ellipsis;
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis; }
-/* line 148, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 148, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container .select2-choice abbr {
   display: none;
   width: 12px;
@@ -154,22 +154,22 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   background: url("../images/select2.png") right top no-repeat;
   cursor: pointer;
   outline: 0; }
-/* line 163, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 163, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container.select2-allowclear .select2-choice abbr {
   display: inline-block; }
-/* line 166, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 166, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container .select2-choice abbr:hover {
   background-position: right -11px;
   cursor: pointer; }
 
-/* line 172, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 172, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-drop-mask {
   position: absolute;
   left: 0;
   top: 0;
   z-index: 9998; }
 
-/* line 179, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 179, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-drop {
   width: 100%;
   margin-top: -1px;
@@ -187,15 +187,15 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   -moz-box-shadow: 0 4px 5px rgba(0, 0, 0, 0.15);
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.15); }
 
-/* line 197, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 197, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-drop-auto-width {
   border-top: 1px solid #aaa;
   width: auto; }
-  /* line 200, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 200, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-drop-auto-width .select2-search {
     padding-top: 4px; }
 
-/* line 205, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 205, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-drop.select2-drop-above {
   margin-top: 1px;
   border-top: 1px solid #aaa;
@@ -207,7 +207,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   -moz-box-shadow: 0 -4px 5px rgba(0, 0, 0, 0.15);
   box-shadow: 0 -4px 5px rgba(0, 0, 0, 0.15); }
 
-/* line 217, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 217, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container .select2-choice div {
   display: inline-block;
   width: 18px;
@@ -230,14 +230,14 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   background-image: -ms-linear-gradient(top, #cccccc 0%, #eeeeee 60%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#eeeeee', endColorstr = '#cccccc', GradientType = 0);
   background-image: linear-gradient(top, #cccccc 0%, #eeeeee 60%); }
-  /* line 239, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 239, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-container .select2-choice div b {
     display: block;
     width: 100%;
     height: 100%;
     background: url("../images/select2.png") no-repeat 0 1px; }
 
-/* line 247, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 247, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-search {
   display: inline-block;
   width: 100%;
@@ -248,7 +248,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   position: relative;
   z-index: 10000;
   white-space: nowrap; }
-  /* line 257, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 257, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-search input {
     width: 100%;
     height: auto !important;
@@ -273,11 +273,11 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
     background: url("../images/select2.png") no-repeat 100% -22px, -ms-linear-gradient(top, white 85%, #eeeeee 99%);
     background: url("../images/select2.png") no-repeat 100% -22px, linear-gradient(top, #ffffff 85%, #eeeeee 99%); }
 
-/* line 283, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 283, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-drop.select2-drop-above .select2-search input {
   margin-top: 4px; }
 
-/* line 287, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 287, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-search input.select2-active {
   background: white url("../images/select2-spinner.gif") no-repeat 100%;
   background: url("../images/select2-spinner.gif") no-repeat 100%, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, white), color-stop(0.99, #eeeeee));
@@ -287,7 +287,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   background: url("../images/select2-spinner.gif") no-repeat 100%, -ms-linear-gradient(top, white 85%, #eeeeee 99%);
   background: url("../images/select2-spinner.gif") no-repeat 100%, linear-gradient(top, #ffffff 85%, #eeeeee 99%); }
 
-/* line 298, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 298, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-active .select2-choice, .select2-container-active .select2-choices {
   border: 1px solid #5897fb;
   outline: none;
@@ -295,7 +295,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); }
 
-/* line 308, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 308, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-dropdown-open .select2-choice {
   border-bottom-color: transparent;
   -webkit-box-shadow: 0 1px 0 #fff inset;
@@ -315,7 +315,7 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   background-image: -ms-linear-gradient(top, white 0%, #eeeeee 50%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#ffffff',GradientType=0 );
   background-image: linear-gradient(top, #ffffff 0%, #eeeeee 50%); }
-/* line 329, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 329, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-dropdown-open.select2-drop-above .select2-choice, .select2-dropdown-open.select2-drop-above .select2-choices {
   border: 1px solid #5897fb;
   border-top-color: transparent;
@@ -326,17 +326,17 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   background-image: -ms-linear-gradient(bottom, white 0%, #eeeeee 50%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#ffffff',GradientType=0 );
   background-image: linear-gradient(bottom, #ffffff 0%, #eeeeee 50%); }
-/* line 341, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 341, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-dropdown-open .select2-choice div {
   background: transparent;
   border-left: none;
   filter: none; }
-  /* line 345, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 345, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-dropdown-open .select2-choice div b {
     background-position: -18px 1px; }
 
 /* results */
-/* line 353, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 353, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-results {
   max-height: 200px;
   padding: 0 0 0 4px;
@@ -345,40 +345,40 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
   overflow-x: hidden;
   overflow-y: auto;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
-  /* line 361, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 361, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results ul.select2-result-sub {
     margin: 0;
     padding-left: 0; }
-    /* line 364, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 364, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results ul.select2-result-sub > li .select2-result-label {
       padding-left: 20px; }
-    /* line 368, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 368, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results ul.select2-result-sub ul.select2-result-sub > li .select2-result-label {
       padding-left: 40px; }
-    /* line 372, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 372, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub > li .select2-result-label {
       padding-left: 60px; }
-    /* line 376, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 376, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub > li .select2-result-label {
       padding-left: 80px; }
-    /* line 380, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 380, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub > li .select2-result-label {
       padding-left: 100px; }
-    /* line 384, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 384, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub > li .select2-result-label {
       padding-left: 110px; }
-    /* line 387, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 387, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub ul.select2-result-sub > li .select2-result-label {
       padding-left: 120px; }
-  /* line 396, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 396, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results li {
     list-style: none;
     display: list-item;
     background-image: none; }
-    /* line 400, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 400, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results li.select2-result-with-children > .select2-result-label {
       font-weight: bold; }
-  /* line 404, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 404, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results .select2-result-label {
     padding: 3px 7px 4px;
     margin: 0;
@@ -390,69 +390,69 @@ Version: 3.4.0 Timestamp: Tue May 14 08:27:33 PDT 2013
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none; }
-  /* line 416, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 416, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results .select2-highlighted {
     background: #3875d7;
     color: #fff; }
-  /* line 420, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 420, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results li em {
     background: #feffde;
     font-style: normal; }
-  /* line 425, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 425, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results .select2-highlighted em {
     background: transparent; }
-  /* line 428, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 428, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results .select2-highlighted ul {
     background: white;
     color: #000; }
-  /* line 433, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 433, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results .select2-no-results, .select2-results .select2-searching, .select2-results .select2-selection-limit {
     background: #f4f4f4;
     display: list-item; }
-  /* line 437, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 437, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results .select2-disabled {
     background: #f4f4f4;
     display: list-item;
     cursor: default; }
-    /* line 438, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 438, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-results .select2-disabled.select2-highlighted {
       color: #666;
       background: #f4f4f4;
       display: list-item;
       cursor: default; }
-  /* line 448, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 448, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-results .select2-selected {
     display: none; }
 
 /*
 disabled look for disabled choices in the results dropdown
 */
-/* line 457, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 457, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-more-results {
   background: #f4f4f4;
   display: list-item; }
-  /* line 458, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 458, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-more-results.select2-active {
     background: #f4f4f4 url("../images/select2-spinner.gif") no-repeat 100%; }
 
 /* disabled styles */
-/* line 467, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 467, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container.select2-container-disabled .select2-choice {
   background-color: #f4f4f4;
   background-image: none;
   border: 1px solid #ddd;
   cursor: default; }
-  /* line 472, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 472, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-container.select2-container-disabled .select2-choice div {
     background-color: #f4f4f4;
     background-image: none;
     border-left: 0; }
-  /* line 477, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 477, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-container.select2-container-disabled .select2-choice abbr {
     display: none; }
 
 /* multiselect */
-/* line 484, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 484, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-choices {
   height: auto !important;
   height: 1%;
@@ -470,30 +470,30 @@ disabled look for disabled choices in the results dropdown
   background-image: -ms-linear-gradient(top, #eeeeee 1%, white 15%);
   background-image: linear-gradient(top, #eeeeee 1%, #ffffff 15%); }
 
-/* line 502, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 502, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-locked {
   padding: 3px 5px 3px 5px !important; }
 
-/* line 507, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 507, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-choices {
   min-height: 26px; }
-/* line 510, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 510, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi.select2-container-active .select2-choices {
   border: 1px solid #5897fb;
   outline: none;
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); }
-/* line 518, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 518, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-choices li {
   float: left;
   list-style: none; }
-/* line 522, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 522, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-choices .select2-search-field {
   margin: 0;
   padding: 0;
   white-space: nowrap; }
-  /* line 526, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 526, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-container-multi .select2-choices .select2-search-field input {
     padding: 5px;
     margin: 1px 0;
@@ -506,15 +506,15 @@ disabled look for disabled choices in the results dropdown
     -moz-box-shadow: none;
     box-shadow: none;
     background: transparent !important; }
-    /* line 538, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 538, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-container-multi .select2-choices .select2-search-field input.select2-active {
       background: white url("../images/select2-spinner.gif") no-repeat 100% !important; }
 
-/* line 546, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 546, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-default {
   color: #999 !important; }
 
-/* line 551, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 551, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-choices .select2-search-choice {
   padding: 3px 5px 3px 18px;
   margin: 3px 0 3px 5px;
@@ -546,14 +546,14 @@ disabled look for disabled choices in the results dropdown
   background-image: -o-linear-gradient(top, #f4f4f4 20%, #f0f0f0 50%, #e8e8e8 52%, #eeeeee 100%);
   background-image: -ms-linear-gradient(top, #f4f4f4 20%, #f0f0f0 50%, #e8e8e8 52%, #eeeeee 100%);
   background-image: linear-gradient(top, #f4f4f4 20%, #f0f0f0 50%, #e8e8e8 52%, #eeeeee 100%); }
-  /* line 582, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 582, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-container-multi .select2-choices .select2-search-choice span {
     cursor: default; }
-/* line 586, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 586, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-choices .select2-search-choice-focus {
   background: #d4d4d4; }
 
-/* line 591, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 591, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-search-choice-close {
   display: block;
   width: 12px;
@@ -565,36 +565,36 @@ disabled look for disabled choices in the results dropdown
   outline: none;
   background: url("../images/select2.png") right top no-repeat; }
 
-/* line 604, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 604, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-search-choice-close {
   left: 3px; }
-/* line 608, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 608, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi .select2-choices .select2-search-choice .select2-search-choice-close:hover, .select2-container-multi .select2-choices .select2-search-choice-focus .select2-search-choice-close {
   background-position: right -11px; }
-/* line 612, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 612, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-container-multi.select2-container-disabled .select2-choices {
   background-color: #f4f4f4;
   background-image: none;
   border: 1px solid #ddd;
   cursor: default; }
-  /* line 617, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 617, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-container-multi.select2-container-disabled .select2-choices .select2-search-choice {
     padding: 3px 5px 3px 5px;
     border: 1px solid #ddd;
     background-image: none;
     background-color: #f4f4f4; }
-    /* line 622, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+    /* line 622, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
     .select2-container-multi.select2-container-disabled .select2-choices .select2-search-choice .select2-search-choice-close {
       display: none;
       background: none; }
 
 /* disabled styles */
 /* end multiselect */
-/* line 634, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 634, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-result-selectable .select2-match, .select2-result-unselectable .select2-match {
   text-decoration: underline; }
 
-/* line 638, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 638, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-offscreen {
   clip: rect(0 0 0 0);
   width: 1px;
@@ -606,7 +606,7 @@ disabled look for disabled choices in the results dropdown
   position: absolute;
   outline: 0;
   left: 0px; }
-  /* line 649, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 649, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-offscreen:focus {
     clip: rect(0 0 0 0);
     width: 1px;
@@ -619,11 +619,11 @@ disabled look for disabled choices in the results dropdown
     outline: 0;
     left: 0px; }
 
-/* line 663, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 663, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-display-none {
   display: none; }
 
-/* line 667, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+/* line 667, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
 .select2-measure-scrollbar {
   position: absolute;
   top: -10000px;
@@ -634,18 +634,18 @@ disabled look for disabled choices in the results dropdown
 
 /* Retina-ize icons */
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi) {
-  /* line 679, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 679, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-search input, .select2-search-choice-close {
     background-image: url("../images/select2x2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 60px 40px !important; }
 
-  /* line 685, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 685, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-container .select2-choice abbr, .select2-container .select2-choice div b {
     background-image: url("../images/select2x2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 60px 40px !important; }
 
-  /* line 691, /home/andrei/core-admin-release/core-admin/source/stylesheets/select2.scss */
+  /* line 691, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/select2.scss */
   .select2-search input {
     background-position: 100% -21px !important; } }

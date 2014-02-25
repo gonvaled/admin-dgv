@@ -9,11 +9,11 @@
 */
 /* Mobile */
 @media only screen and (max-width: 767px) {
-  /* line 17, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 17, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   table.responsive {
     margin-bottom: 0; }
 
-  /* line 19, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 19, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   .pinned {
     position: absolute;
     left: 0;
@@ -25,43 +25,43 @@
     border-right: 1px solid #ccc;
     border-left: 1px solid #ccc; }
 
-  /* line 20, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 20, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   .pinned table {
     border-right: none;
     border-left: none;
     width: 100%; }
 
-  /* line 21, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 21, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   .pinned table th, .pinned table td {
     white-space: nowrap; }
 
-  /* line 22, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 22, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   .pinned td:last-child {
     border-bottom: 0; }
 
-  /* line 24, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 24, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   div.table-wrapper {
     position: relative;
     margin-bottom: 20px;
     overflow: hidden;
     border-right: 1px solid #ccc; }
 
-  /* line 25, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 25, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   div.table-wrapper div.scrollable table {
     margin-left: 35%; }
 
-  /* line 26, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 26, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   div.table-wrapper div.scrollable {
     overflow: scroll;
     overflow-y: hidden; }
 
-  /* line 28, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 28, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   table.responsive td, table.responsive th {
     position: relative;
     white-space: nowrap;
     overflow: hidden; }
 
-  /* line 29, /home/andrei/core-admin-release/core-admin/source/stylesheets/responsive-tables.scss */
+  /* line 29, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/responsive-tables.scss */
   table.responsive th:first-child, table.responsive td:first-child, table.responsive td:first-child, table.responsive.pinned td {
     display: none; } }
 /* -----------------------------------------

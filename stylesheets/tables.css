@@ -1,17 +1,17 @@
-/* line 5, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+/* line 5, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
 .table-normal {
   margin-bottom: 0;
   color: #5a6573; }
-  /* line 10, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+  /* line 10, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
   .table-normal tbody td, .table-normal thead td {
     border-left: 1px solid #eaebef; }
-  /* line 14, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+  /* line 14, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
   .table-normal tbody td:first-child, .table-normal thead td:first-child {
     border-left: none; }
-  /* line 18, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+  /* line 18, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
   .table-normal tbody td {
     border-top: 1px solid #eaebef; }
-  /* line 22, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+  /* line 22, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
   .table-normal thead td {
     text-align: center;
     font-size: 11px;
@@ -33,23 +33,23 @@
     border-left: 1px solid #d1d2da;
     border-right: 1px solid #d1d2da;
     border-bottom: 1px solid #d1d2da; }
-    /* line 39, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+    /* line 39, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
     .table-normal thead td:first-child {
       border-left: none; }
-    /* line 43, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+    /* line 43, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
     .table-normal thead td:last-child {
       border-right: none; }
-  /* line 49, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+  /* line 49, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
   .table-normal tbody td {
     padding: 7px 11px;
     vertical-align: middle; }
-  /* line 53, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+  /* line 53, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
   .table-normal tbody tr {
     border-top: 1px solid #eaebef; }
-    /* line 56, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+    /* line 56, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
     .table-normal tbody tr:nth-child(even) {
       background: #F3F4F8; }
-  /* line 62, /home/andrei/core-admin-release/core-admin/source/stylesheets/tables.scss */
+  /* line 62, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/tables.scss */
   .table-normal .icon {
     width: 30px;
     text-align: center; }

@@ -1,44 +1,44 @@
-/* line 3, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 3, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 #gritter-notice-wrapper {
   position: fixed;
   top: 20px;
   right: 20px;
   width: 301px;
   z-index: 9999; }
-  /* line 10, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+  /* line 10, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
   #gritter-notice-wrapper.top-left {
     left: 20px;
     right: auto; }
-  /* line 15, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+  /* line 15, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
   #gritter-notice-wrapper.bottom-right {
     top: auto;
     left: auto;
     bottom: 20px;
     right: 20px; }
-  /* line 22, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+  /* line 22, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
   #gritter-notice-wrapper.bottom-left {
     top: auto;
     right: auto;
     bottom: 20px;
     left: 20px; }
 
-/* line 30, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 30, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-item-wrapper {
   position: relative;
   margin: 0 0 10px 0;
   background: url("../images/ie-spacer.gif");
   /* ie7/8 fix */ }
-  /* line 36, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+  /* line 36, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
   .gritter-item-wrapper.warn .gritter-title {
     color: orange; }
-  /* line 42, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+  /* line 42, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
   .gritter-item-wrapper.error .gritter-title {
     color: #ff4d4d; }
-  /* line 49, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+  /* line 49, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
   .gritter-item-wrapper.success .gritter-title {
     color: #00cc00; }
 
-/* line 55, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 55, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-item {
   display: block;
   background: rgba(0, 0, 0, 0.7);
@@ -55,17 +55,17 @@
   -o-border-radius: 6px;
   border-radius: 6px; }
 
-/* line 66, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 66, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .hover .gritter-item {
   background-position: right -40px; }
 
-/* line 69, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 69, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-item p {
   padding: 0;
   margin: 0;
   word-wrap: break-word; }
 
-/* line 74, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 74, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-close {
   display: none;
   position: absolute;
@@ -75,7 +75,7 @@
   width: 100%;
   height: 100%; }
 
-/* line 83, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 83, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-title {
   font-size: 14px;
   font-weight: 600;
@@ -84,18 +84,18 @@
   text-shadow: 1px 1px 0 #000;
   /* Not supported by IE :( */ }
 
-/* line 90, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 90, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-image {
   width: 48px;
   height: 48px;
   float: left; }
 
-/* line 96, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 96, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-with-image,
 .gritter-without-image {
   padding: 0; }
 
-/* line 99, /home/andrei/core-admin-release/core-admin/source/stylesheets/gritter.scss */
+/* line 99, /home/gonvaled/tmp/xxx/core-admin/release_bs3/source/stylesheets/gritter.scss */
 .gritter-with-image {
   width: 220px;
   float: right; }
